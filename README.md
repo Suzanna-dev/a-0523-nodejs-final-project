@@ -22,3 +22,5 @@ Goal: Create a chat application with database storage and login/signup
 ## Presentation
 
 Presentation will be on February 12. Keep your presentation for a maximum of 5 minutes.
+
+Good luck and have fun!
